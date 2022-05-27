@@ -1,2 +1,2 @@
 # eKids
-epam
+Hi, there!
